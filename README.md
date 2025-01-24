@@ -101,5 +101,5 @@ Users can also use the filters in order to visualize their entries according to 
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Diary App](https://github.com/mikemorcerf/diary-app/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the [Diary App](https://github.com/dolan12/soulscript/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
